@@ -1,2 +1,1 @@
-# vue-counter
-Created with CodeSandbox
+# vue-counter-using-vuex
